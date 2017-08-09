@@ -51,5 +51,5 @@ int main()
 	cout << "Vector capacity : " << v.capacity() << endl;
 	// v[0] : 12
 	// v[v.size()-1] : 100
-	//	Vector capacity : 8 
+	// Vector capacity : 8 
 }
