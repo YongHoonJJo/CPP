@@ -1,3 +1,6 @@
+// boj.kr/5052
+// http://kks227.blog.me/220938122295
+
 #include <cstdio>
 #define GO_MAX	10		// 트라이 노드마다 포인터 개수
 
@@ -62,7 +65,3 @@ int main()
 		delete root;
 	}
 }
-
-// boj.kr/5052
-// http://kks227.blog.me/220938122295
-
